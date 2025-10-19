@@ -66,3 +66,7 @@ AppHub is a modern, responsive web application that serves as a centralized dash
 - Works completely offline  
 
 ---
+
+# AppHub - App Management Dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://sunkukarthik5.github.io/AppHub-Bookmark-/)
