@@ -25,4 +25,7 @@ It provides category-based app management, favorites, search functionality, dark
 
 ## 🔗 Live Demo
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-AppHub-red?style=for-the-badge&logo=google-chrome)](https://your-live-demo-link.com](https://sunkukarthik5.github.io/AppHub-Bookmark-/))
+## 🔗 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-AppHub-red?style=for-the-badge&logo=google-chrome)](https://sunkukarthik5.github.io/AppHub-Bookmark-/)
+
